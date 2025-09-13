@@ -1,6 +1,7 @@
 package item
 
 type Item struct {
-	ID   string
-	Name string
+	ID      string
+	GroupID string
+	Name    string
 }

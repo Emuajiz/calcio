@@ -1,5 +1,7 @@
 package factory
 
 type Factory struct {
-	ID string
+	ID      string
+	GroupID string
+	Name    string
 }
